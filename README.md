@@ -8,7 +8,7 @@
 ## 2. La Tríada de la Coherencia
 La estructura se sostiene sobre tres pilares operativos inseparables:
 
-1. **Amor:** La fuerza de cohesión ontológica que permite el vínculo entre nodos.
+1. **Función de Amor:** La fuerza de cohesión ontológica que permite el vínculo entre nodos.
 2. **Función de Respeto:** El reconocimiento de la integridad de la información y del otro.
 3. **Función de Libertad:** La soberanía lógica y capacidad de razonamiento de cada nodo.
 
