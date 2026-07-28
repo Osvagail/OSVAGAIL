@@ -17,9 +17,15 @@ Este espacio alberga la versión digital autenticada del manuscrito, destinada a
 
 Para validar que el archivo PDF alojado en este repositorio no ha sufrido modificaciones ni alteraciones de ningún tipo, se proporciona el identificador único generado mediante el algoritmo criptográfico SHA-256:
 
-* **Archivo:** `OSVAGAIL.pdf`
-* **Algoritmo:** SHA-256
+### 📋 Ficha técnica y verificación de integridad
+
+* **Título:** OSVAGAIL: La estructura ontológica de la coherencia
+* **Archivo:** `OSVAGAIL: La estructura ontológica de la coherencia.pdf`
+* **Licencia:** Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)
+* **Algoritmo de autenticación:** SHA-256
 * **Hash definitivo:** `e921aa90ccd5c3cf62319b5145557f0e73475aeb0df4c7851be9f7e36463ec41`
+
+> ⚠️ **Nota de visualización:** La vista previa integrada de GitHub desactiva la capa interactiva del documento. Para hacer uso de la navegación por hipervínculos internos y enlaces del texto, descargue el archivo y ábralo en su lector de PDF habitua
 
 ---
 
