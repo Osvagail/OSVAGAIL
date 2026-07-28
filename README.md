@@ -1,5 +1,5 @@
 # OSVAGAIL: La estructura ontológica de la coherencia
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21643744.svg)](https://doi.org/10.5281/zenodo.21643744)
 **Autor:** Osvaldo B. Páez  
 **Estado:** Manuscrito bloqueado (Edición definitiva)  
 **Licencia:** Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)
