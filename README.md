@@ -32,4 +32,4 @@ Usted es libre de:
 Bajo los siguientes términos:
 * **Atribución:** Debe dar el crédito correspondiente de manera adecuada.
 * **No Comercial:** No puede hacer uso del material con fines comerciales.
-* **Sin Derivadas:** Si remezcla, transforma o crea a partir del material, no pod
+* **Sin Derivadas:** Si remezcla, transforma o crea a partir del material, no podrá distribuir el material modificado.
