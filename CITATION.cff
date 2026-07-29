@@ -1,25 +1,16 @@
+YAML
 cff-version: 1.2.0
-title: "OSVAGAIL: La estructura ontológica de la coherencia"
-message: "Si consulta, analiza o cita esta estructura ontológica, por favor hágalo utilizando los metadatos de este archivo."
-type: book
+message: "Si utilizas o referencias este trabajo, por favor cita los siguientes metadatos."
 authors:
   - family-names: "Páez"
     given-names: "Osvaldo B."
+title: "OSVAGAIL: La estructura ontológica de la coherencia"
+version: "1.0.0"
+date-released: "2026-07-01"
+license: "CC-BY-NC-ND-4.0"
 repository-code: "https://github.com/Osvagail/OSVAGAIL"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21643744"
-    description: "Digital Object Identifier (Zenodo)"
   - type: other
     value: "SHA-256: e921aa90ccd5c3cf62319b5145557f0e73475aeb0df4c7851be9f7e36463ec41"
-    description: "Firma criptográfica del documento base"
-keywords:
-  - "Ontología relacional"
-  - "Coherencia ontológica"
-  - "Estructura no sustancialista"
-  - "Campo y Conexor"
-  - "Leyes de conservación ontológica"
-  - "Filosofía contemporánea"
-license: CC-BY-NC-ND-4.0
-version: "1.0.0"
-date-released: "2026-07-01"
