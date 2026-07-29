@@ -1,16 +1,11 @@
-YAML
 cff-version: 1.2.0
-message: "Si utilizas o referencias este trabajo, por favor cita los siguientes metadatos."
-authors:
-  - family-names: "Páez"
-    given-names: "Osvaldo B."
+message: "Si utilizas este trabajo, por favor cítalo como se indica a continuación."
 title: "OSVAGAIL: La estructura ontológica de la coherencia"
-version: "1.0.0"
-date-released: "2026-07-01"
-license: "CC-BY-NC-ND-4.0"
-repository-code: "https://github.com/Osvagail/OSVAGAIL"
+authors:
+  - family-names: Páez
+    given-names: Osvaldo B.
+date-released: 2026-07-01
+license: CC-BY-NC-ND-4.0
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.21643744"
-  - type: other
-    value: "SHA-256: e921aa90ccd5c3cf62319b5145557f0e73475aeb0df4c7851be9f7e36463ec41"
+    value: 10.5281/zenodo.21643744
