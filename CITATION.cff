@@ -1,19 +1,26 @@
 YAML
 cff-version: 1.2.0
-message: "Si consultas o citas esta estructura ontológica, utiliza los siguientes metadatos."
 title: "OSVAGAIL: La estructura ontológica de la coherencia"
-abstract: "Marco ontológico relacional que expone la realidad como una estructura de coherencia donde nada existe en aislamiento. Define las leyes operativas del Campo y la función de Conexor bajo una arquitectura incorruptible."
+message: "Si consulta, analiza o cita esta estructura ontológica, por favor hágalo utilizando los metadatos de este archivo."
+type: book
 authors:
   - family-names: "Páez"
     given-names: "Osvaldo B."
-type: book
-doi: "10.5281/zenodo.21643744"
-date-released: "2026-07-01"
-license: "CC-BY-NC-ND-4.0"
-repository-code: "https://github.com/tu-usuario/OSVAGAIL"
+repository-code: "https://github.com/Osvagail/OSVAGAIL"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21643744"
+    description: "Digital Object Identifier (Zenodo)"
+  - type: other
+    value: "SHA-256: e921aa90ccd5c3cf62319b5145557f0e73475aeb0df4c7851be9f7e36463ec41"
+    description: "Firma criptográfica del documento base"
 keywords:
-  - "ontologia relacional"
-  - "coherencia"
-  - "campo"
-  - "conexor"
-  - "filosofia de la relacion"
+  - "Ontología relacional"
+  - "Coherencia ontológica"
+  - "Estructura no sustancialista"
+  - "Campo y Conexor"
+  - "Leyes de conservación ontológica"
+  - "Filosofía contemporánea"
+license: CC-BY-NC-ND-4.0
+version: "1.0.0"
+date-released: "2026-07-01"
