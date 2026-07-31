@@ -5,51 +5,108 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Osvagail: La estructura ontológica de la coherencia</title>
     
-    <!-- Metadatos de Citación para Buscadores e IAs -->
+    <!-- Metadatos de Citación Académica e Indexación (Google Scholar, PhilArchive, IAs) -->
     <meta name="citation_title" content="Osvagail: La estructura ontológica de la coherencia">
     <meta name="citation_author" content="Osvaldo B. Páez">
+    <meta name="citation_publication_date" content="2026">
     <meta name="citation_doi" content="10.5281/zenodo.21643744">
+    <meta name="citation_language" content="es">
+    <meta name="citation_pdf_url" content="https://zenodo.org/records/21643744/files/Osvagail.pdf">
+    <meta name="description" content="Portal oficial y exposición soberana del marco ontológico Osvagail: La estructura ontológica de la coherencia.">
     
     <style>
+        :root {
+            --primary: #1a2530;
+            --accent: #0066cc;
+            --bg-light: #f8f9fa;
+            --border: #e9ecef;
+            --text: #2d3748;
+            --code-bg: #f1f3f5;
+        }
         body {
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            line-height: 1.7;
+            max-width: 850px;
             margin: 0 auto;
-            padding: 2rem 1rem;
-            color: #222;
-            background-color: #fcfcfc;
+            padding: 2.5rem 1.5rem;
+            color: var(--text);
+            background-color: #ffffff;
         }
         header {
-            border-bottom: 1px solid #eaeaea;
-            padding-bottom: 1.5rem;
-            margin-bottom: 2rem;
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 2rem;
+            margin-bottom: 2.5rem;
         }
         h1 {
-            font-size: 2rem;
-            margin-bottom: 0.5rem;
+            font-size: 2.4rem;
+            color: var(--primary);
+            margin: 0 0 0.5rem 0;
             letter-spacing: -0.02em;
+        }
+        .subtitle {
+            font-size: 1.2rem;
+            color: #4a5568;
+            margin: 0 0 1.5rem 0;
+            font-weight: 400;
         }
         .doi-badge {
             display: inline-block;
-            background-color: #f0f0f0;
-            padding: 0.3rem 0.6rem;
+            background-color: var(--bg-light);
+            padding: 0.4rem 0.8rem;
             border-radius: 4px;
             font-size: 0.9rem;
             font-family: monospace;
+            color: var(--primary);
+            border: 1px solid var(--border);
             text-decoration: none;
-            color: #333;
-            border: 1px solid #ddd;
         }
         .doi-badge:hover {
-            background-color: #e5e5e5;
+            border-color: #cbd5e0;
+        }
+        section {
+            margin-bottom: 2.5rem;
+        }
+        h2 {
+            font-size: 1.4rem;
+            color: var(--primary);
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        .card {
+            background-color: var(--bg-light);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 1.5rem;
+            margin-top: 1rem;
+        }
+        .btn {
+            display: inline-block;
+            background-color: var(--accent);
+            color: #ffffff;
+            padding: 0.75rem 1.5rem;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 600;
+            margin-top: 0.8rem;
+        }
+        .btn:hover {
+            background-color: #0052a3;
+        }
+        pre {
+            background-color: var(--code-bg);
+            padding: 1rem;
+            border-radius: 4px;
+            overflow-x: auto;
+            font-size: 0.85rem;
+            border: 1px solid #e2e8f0;
         }
         footer {
-            margin-top: 3rem;
-            padding-top: 1rem;
-            border-top: 1px solid #eaeaea;
+            margin-top: 4rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--border);
             font-size: 0.85rem;
-            color: #666;
+            color: #718096;
         }
     </style>
 </head>
@@ -57,7 +114,7 @@
 
     <header>
         <h1>Osvagail</h1>
-        <p><strong>La estructura ontológica de la coherencia</strong></p>
+        <p class="subtitle">La estructura ontológica de la coherencia</p>
         <a href="https://doi.org/10.5281/zenodo.21643744" target="_blank" class="doi-badge">
             DOI: 10.5281/zenodo.21643744
         </a>
@@ -65,18 +122,48 @@
 
     <main>
         <section>
-            <h2>Portal Oficial de la Obra</h2>
-            <p>Acceso directo a la fuente primaria inmutable registrada en el ecosistema global de ciencia abierta.</p>
+            <h2>Presentación del Marco Ontológico</h2>
             <p>
-                <a href="https://doi.org/10.5281/zenodo.21643744" target="_blank">
-                    Acceder a la versión completa en Zenodo (PDF)
-                </a>
+                <strong>Osvagail</strong> aborda la articulación formal de la coherencia como principio ontológico y relacional. 
+                El trabajo examina las condiciones lógicas, estructurales y sistémicas bajo las cuales la coherencia se sostiene 
+                a través de marcos de pensamiento e interacción de información.
             </p>
+            <p>
+                Este portal opera como el nodo primario de exposición soberana de la obra, respaldado por la infraestructura de 
+                Ciencia Abierta para garantizar su disponibilidad inalterable, trazabilidad y libre acceso académico.
+            </p>
+        </section>
+
+        <section>
+            <h2>Documento Inmutable y Descarga</h2>
+            <div class="card">
+                <p>La versión completa en formato PDF se encuentra indexada y archivada de forma permanente en la red Zenodo / OpenAIRE.</p>
+                <a href="https://doi.org/10.5281/zenodo.21643744" target="_blank" class="btn">
+                    Acceder al documento completo en Zenodo ↗
+                </a>
+            </div>
+        </section>
+
+        <section>
+            <h2>Ficha de Citación</h2>
+            <p><strong>Formato APA (7ª ed.):</strong></p>
+            <pre>Páez, O. B. (2026). Osvagail: La estructura ontológica de la coherencia. Zenodo. https://doi.org/10.5281/zenodo.21643744</pre>
+            
+            <p><strong>Formato BibTeX:</strong></p>
+            <pre>@book{paez2026osvagail,
+  author    = {Páez, Osvaldo B.},
+  title     = {Osvagail: La estructura ontológica de la coherencia},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21643744},
+  url       = {https://doi.org/10.5281/zenodo.21643744}
+}</pre>
         </section>
     </main>
 
     <footer>
-        <p>Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)</p>
+        <p><strong>Licencia:</strong> Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)</p>
+        <p>Publicación soberana bajo estándares de Ciencia Abierta.</p>
     </footer>
 
 </body>
